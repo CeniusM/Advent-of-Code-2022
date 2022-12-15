@@ -1,0 +1,5 @@
+
+/Day1
+cargo build
+
+exe under target/Debug in a command line interface like powershell
